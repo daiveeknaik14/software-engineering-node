@@ -1,5 +1,9 @@
 .idea
 node_modules
 build
-out
 data
+out
+<<<<<<< HEAD
+=======
+coverage
+>>>>>>> B/a3
